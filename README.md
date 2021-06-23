@@ -1,7 +1,7 @@
 # BankCustomerChurn
 ## This README is still under revision, but please refer to the summary below for now
 
-Dataset: 10,000 labeled bank customer data
+Dataset: 10,000 labeled bank customer data, courtsey of LaiOffer - data science bootcamp
 
 Schema:
 
